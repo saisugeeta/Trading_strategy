@@ -1,0 +1,7 @@
+Requirements---
+
+1. install the pre release via pip
+pip install --upgrade kiteconnect
+2.python version- 3
+3.open account in kite.trade,create an app there,api key and api-secret will be given.
+4.But in the given program we used dummy values.
